@@ -1,16 +1,32 @@
-## Hi there 👋
+# ✨ Hola, soy Nahomi Villanueva
 
-<!--
-**nesquickgril/nesquickgril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Bienvenido/a a mi perfil de GitHub
 
-Here are some ideas to get you started:
+Soy una desarrolladora en aprendizaje apasionada por la tecnología, el código y crear cosas nuevas. Me gusta experimentar con diferentes herramientas y seguir aprendiendo cada día.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+* 👩‍💻 Nombre: **Nahomi Villanueva**
+* 🌱 Actualmente estoy aprendiendo: **programación y desarrollo de software**
+* 🎯 Meta: Convertirme en una gran desarrolladora
+* 💡 Me interesa: **tecnología, programación y proyectos creativos**
+
+## 🛠️ Tecnologías que estoy aprendiendo
+
+* HTML
+* CSS
+* JavaScript
+* Git y GitHub
+
+## 📂 Algunos de mis proyectos
+
+Aquí irán algunos de los proyectos en los que he trabajado.
+
+## 📫 Cómo contactarme
+
+* GitHub: https://github.com/nesquickgril
+
+---
+
+⭐ Gracias por visitar mi perfil
+

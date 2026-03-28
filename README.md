@@ -17,10 +17,9 @@ Soy una desarrolladora en aprendizaje apasionada por la tecnología, el código 
 * CSS
 * JavaScript
 * Git y GitHub
+* MySql Worchbench
 
-## 📂 Algunos de mis proyectos
 
-Aquí irán algunos de los proyectos en los que he trabajado.
 
 ## 📫 Cómo contactarme
 

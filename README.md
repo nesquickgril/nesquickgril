@@ -29,8 +29,8 @@ SolidWorks
 Desarrollo de software
 Mejores prácticas en programación
 Tecnologías de redes y sistemas
-🌎 Intereses
 
+🌎 Intereses
 ✈️ Viajar
 📖 Aprender cosas nuevas
 💡 Tecnología e innovación

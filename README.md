@@ -37,6 +37,3 @@ Tecnologías de redes y sistemas
 
 Me puedes contactar en:
 nahomi.villanuevaa10@gmail.com
-📫 Contacto
-
-Puedes contactarme o ver mis proyectos aquí en GitHub 😊

@@ -1,31 +1,42 @@
-# ✨ Hola, soy Nahomi Villanueva
+¡Hola! Soy Nahomi Villanueva
 
-💻 Bienvenido/a a mi perfil de GitHub
+🎓 Estudiante de Ingeniería en Sistemas Computacionales
+Apasionada por la tecnología, el aprendizaje continuo y el desarrollo de soluciones prácticas
 
-Soy una desarrolladora en aprendizaje apasionada por la tecnología, el código y crear cosas nuevas. Me gusta experimentar con diferentes herramientas y seguir aprendiendo cada día.
+🚀 Sobre mí
 
-## 🚀 Sobre mí
+Actualmente me desempeño en el área de telecomunicaciones como Supervisora de Sistema, donde adquiero experiencia en el manejo de redes, soporte técnico y operación de sistemas.
 
-* 👩‍💻 Nombre: **Nahomi Villanueva**
-* 🌱 Actualmente estoy aprendiendo: **programación y desarrollo de software**
-* 🎯 Meta: Convertirme en una gran desarrolladora
-* 💡 Me interesa: **tecnología, programación y proyectos creativos**
+Me considero una persona responsable, con iniciativa y siempre con ganas de seguir aprendiendo y creciendo profesionalmente.
 
-## 🛠️ Tecnologías que estoy aprendiendo
+🧠 Conocimientos y Tecnologías
+💻 Programación:
+Java (en aprendizaje)
+C++
+🗄️ Bases de datos:
+MySQL
+🌐 Redes y telecomunicaciones:
+Cisco
+VPN
+🛠️ Herramientas y software:
+Apache NetBeans
+VirtualBox
+Visual Studio
+🎨 Diseño técnico:
+AutoCAD
+SolidWorks
+📚 Actualmente aprendiendo
+Desarrollo de software
+Mejores prácticas en programación
+Tecnologías de redes y sistemas
+🌎 Intereses
 
-* HTML
-* CSS
-* JavaScript
-* Git y GitHub
-* MySql Worchbench
+✈️ Viajar
+📖 Aprender cosas nuevas
+💡 Tecnología e innovación
 
+Me puedes contactar en:
+nahomi.villanuevaa10@gmail.com
+📫 Contacto
 
-
-## 📫 Cómo contactarme
-
-* GitHub: https://github.com/nesquickgril
-
----
-
-⭐ Gracias por visitar mi perfil
-
+Puedes contactarme o ver mis proyectos aquí en GitHub 😊
